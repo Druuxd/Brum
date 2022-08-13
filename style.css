@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(11, 165, 119);
+}
+
 #birthdayCard {
     background: palegreen;
     color: #111111;
